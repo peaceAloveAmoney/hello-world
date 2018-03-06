@@ -1,3 +1,3 @@
 # hello-world
 test
-first time to write a commit message
+In this world, we need peace, love and money!
